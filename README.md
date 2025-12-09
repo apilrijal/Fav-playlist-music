@@ -1,4 +1,4 @@
-🎵 Java Playlist Manager
+# 🎵 Java Playlist Manager
 A Fully Functional Music Playlist System Built Using Custom Singly and Doubly Linked Lists
 
 Welcome to the Java Playlist Manager — a hands-on data structure project designed to help you understand how linked lists work by building something fun, practical, and interactive: a music playlist!
